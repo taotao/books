@@ -1,0 +1,7 @@
+{
+  "gitbook": "2.x.x",
+  "title": "Effective PYTHON",
+  "structure": {
+    "readme": "introduction.md"
+  }
+}
